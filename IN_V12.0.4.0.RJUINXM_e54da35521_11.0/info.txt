@@ -1,0 +1,9 @@
+miui_VAYUINGlobal_V12.0.4.0.RJUINXM_e54da35521_11.0
+3a0ffdcd5c4d5c05d3fbc0b33bb55942  ./j20s_novatek_ts_fw01.bin
+7e89624f2c0b87fc444fd4d6c8fbd4af  ./j20s_novatek_ts_fw02.bin
+95628668165c63d9c1e5f356df911bbb  ./j20s_novatek_ts_mp01.bin
+c13ecb41cdbb891c97a058572cdd1a3f  ./j20s_novatek_ts_mp02.bin
+2f0c05f6524bee0aad806091e82daf6c  ./j20s_novatek_ts_fw01.bin.ihex
+9874129529941c369169d558a47f3d07  ./j20s_novatek_ts_fw02.bin.ihex
+1b3b8d87591705c52807dbfa78a40ea2  ./j20s_novatek_ts_mp01.bin.ihex
+2c1f1bef8d3569ac15a9090ff977225e  ./j20s_novatek_ts_mp02.bin.ihex
